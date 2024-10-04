@@ -41,7 +41,7 @@ func main() {
 	upscaler.Render(imageupscaler.JPG, file, nil)
 }
 
-
+```
 
 ## Contributing
 
