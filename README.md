@@ -10,7 +10,7 @@ Neuron Nexus Image Upscale is a Go framework for upscaling images. It allows you
 go get -u go.mod
 ```
 
-## Usage (v2.0.0)
+## Usage (v1.0.0)
 
 ```go
 package main
